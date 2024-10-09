@@ -12,6 +12,7 @@ public class Person {
         return age;
     }
 
+    // Check how it's used ONLY | setter methods
     @BuilderProperty
     public void setAge(int age) {
         this.age = age;

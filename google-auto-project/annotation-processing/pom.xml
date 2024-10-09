@@ -25,4 +25,21 @@
         <auto-service.version>1.0-rc2</auto-service.version>
     </properties>
 
+    <!-- TODO: Check if it's needed -->
+    <!--<build>
+        <plugins>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>${maven-compiler-plugin.version}</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+
+        </plugins>
+    </build>-->
+
 </project>

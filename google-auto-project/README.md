@@ -10,3 +10,12 @@ This module contains articles about automatic code generation
 - [Defensive Copies for Collections Using AutoValue](https://www.baeldung.com/autovalue-defensive-copies)
 - [Java Annotation Processing and Creating a Builder](https://www.baeldung.com/java-annotation-processing-builder)
 
+## Goal
+* simple processor / -- generate -- object builders | annotated classes
+
+## Project
+* 2 Maven modules /
+  * "annotation-processor"
+    * == processor + annotation
+  * "annotation-user"
+    * == annotated class
