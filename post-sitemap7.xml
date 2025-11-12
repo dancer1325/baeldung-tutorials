@@ -1,0 +1,4606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on November 12, 2025 at 4:16 pm by All in One SEO v4.8.9 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://www.baeldung.com/default-sitemap.xsl?sitemap=post"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-328]]></loc>
+		<lastmod><![CDATA[2022-07-03T05:57:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-327]]></loc>
+		<lastmod><![CDATA[2022-07-03T05:51:50+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/guava-cache]]></loc>
+		<lastmod><![CDATA[2022-07-01T09:27:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Guava-5-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/gson-deserialization-guide]]></loc>
+		<lastmod><![CDATA[2022-06-24T16:30:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-02.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-cloud-sleuth-get-trace-id]]></loc>
+		<lastmod><![CDATA[2022-06-16T18:29:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2021/09/Spring-Featured-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/ejb-session-beans]]></loc>
+		<lastmod><![CDATA[2022-06-08T15:15:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Javaee-5-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-enumset]]></loc>
+		<lastmod><![CDATA[2022-06-07T03:50:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Java-On-Baeldung-2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/EnumSet-1-2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/of-1.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-219]]></loc>
+		<lastmod><![CDATA[2022-06-04T00:51:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/03/201801_APM_ads_set_b_Java_BN_v1_1x.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-cloud-rest-client-with-netflix-ribbon]]></loc>
+		<lastmod><![CDATA[2022-06-02T13:15:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Cloud-4-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-collaborative-filtering-recommendations]]></loc>
+		<lastmod><![CDATA[2022-05-29T02:08:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/12/Collaborative_filtering_new.gif]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-boot-application-configuration]]></loc>
+		<lastmod><![CDATA[2022-05-11T08:49:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Spring-On-Baeldung-3.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/announcing-learn-spring]]></loc>
+		<lastmod><![CDATA[2022-04-28T08:43:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2019/01/Featured_1_no_subhead.-k.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-data-rest-events]]></loc>
+		<lastmod><![CDATA[2022-04-26T14:01:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Rest-with-Spring-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/registration-verify-user-by-email]]></loc>
+		<lastmod><![CDATA[2022-04-19T06:51:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2017/08/Spring-Security-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-169]]></loc>
+		<lastmod><![CDATA[2022-04-16T09:21:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-42]]></loc>
+		<lastmod><![CDATA[2022-04-16T08:09:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-41]]></loc>
+		<lastmod><![CDATA[2022-04-16T08:07:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-40]]></loc>
+		<lastmod><![CDATA[2022-04-16T08:05:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-26]]></loc>
+		<lastmod><![CDATA[2022-04-16T08:04:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/immutables]]></loc>
+		<lastmod><![CDATA[2022-04-14T14:13:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Data-4-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-52]]></loc>
+		<lastmod><![CDATA[2022-03-12T07:45:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2016-week-review-1]]></loc>
+		<lastmod><![CDATA[2022-03-12T07:43:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-48]]></loc>
+		<lastmod><![CDATA[2022-03-12T07:40:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-8-adoption-march-2016]]></loc>
+		<lastmod><![CDATA[2022-03-11T07:43:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-java.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/basic-and-digest-authentication-for-a-rest-api-with-spring-security]]></loc>
+		<lastmod><![CDATA[2022-03-10T13:31:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Spring-Security-dark.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-persistence-jpa-jndi-datasource]]></loc>
+		<lastmod><![CDATA[2022-02-27T17:55:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Persistence-On-Baeldung.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-311]]></loc>
+		<lastmod><![CDATA[2022-02-11T14:33:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-252]]></loc>
+		<lastmod><![CDATA[2022-02-10T18:00:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-164]]></loc>
+		<lastmod><![CDATA[2022-02-10T17:46:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-green.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-142]]></loc>
+		<lastmod><![CDATA[2022-02-10T17:45:13+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/09/baeldung-social-image-Weekly-Reviews-A.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-307]]></loc>
+		<lastmod><![CDATA[2022-02-10T17:13:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-278]]></loc>
+		<lastmod><![CDATA[2022-02-10T16:58:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-230]]></loc>
+		<lastmod><![CDATA[2022-02-10T16:48:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-198]]></loc>
+		<lastmod><![CDATA[2022-02-10T16:32:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-129]]></loc>
+		<lastmod><![CDATA[2022-02-10T15:50:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-124]]></loc>
+		<lastmod><![CDATA[2022-02-10T15:49:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-111]]></loc>
+		<lastmod><![CDATA[2022-02-10T15:46:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-47]]></loc>
+		<lastmod><![CDATA[2022-02-10T15:44:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-28]]></loc>
+		<lastmod><![CDATA[2022-02-10T15:42:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-12]]></loc>
+		<lastmod><![CDATA[2022-02-10T15:41:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-5]]></loc>
+		<lastmod><![CDATA[2022-02-10T15:09:19+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-4]]></loc>
+		<lastmod><![CDATA[2022-02-10T15:08:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/My-Weekly-Review-on-Baeldung.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-maven-repository]]></loc>
+		<lastmod><![CDATA[2022-02-10T14:03:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-spring.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/hibernate3-spring]]></loc>
+		<lastmod><![CDATA[2022-02-10T13:55:19+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-persistence.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/feign-retry]]></loc>
+		<lastmod><![CDATA[2022-02-03T05:59:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2021/09/Docker-Featured-02.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-180]]></loc>
+		<lastmod><![CDATA[2022-01-23T07:20:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-178]]></loc>
+		<lastmod><![CDATA[2022-01-23T07:18:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-177]]></loc>
+		<lastmod><![CDATA[2022-01-23T07:17:19+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-green.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-176]]></loc>
+		<lastmod><![CDATA[2022-01-23T07:15:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-139]]></loc>
+		<lastmod><![CDATA[2022-01-23T07:03:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-289]]></loc>
+		<lastmod><![CDATA[2022-01-23T05:59:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-270]]></loc>
+		<lastmod><![CDATA[2022-01-23T05:56:03+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-251]]></loc>
+		<lastmod><![CDATA[2022-01-23T05:37:13+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-213]]></loc>
+		<lastmod><![CDATA[2022-01-23T04:46:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-202]]></loc>
+		<lastmod><![CDATA[2022-01-23T04:11:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-196]]></loc>
+		<lastmod><![CDATA[2022-01-23T04:04:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-security-restrict-authentication-by-geography]]></loc>
+		<lastmod><![CDATA[2022-01-23T03:35:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Spring-Security-green.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-149]]></loc>
+		<lastmod><![CDATA[2022-01-23T03:20:29+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-143]]></loc>
+		<lastmod><![CDATA[2022-01-23T03:19:03+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/09/baeldung-social-image-Weekly-Reviews-A.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-25]]></loc>
+		<lastmod><![CDATA[2022-01-21T11:24:03+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/guava-futures-listenablefuture]]></loc>
+		<lastmod><![CDATA[2021-12-21T23:31:29+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2021/01/On-Baeldung-8.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-security-authentication-with-a-database]]></loc>
+		<lastmod><![CDATA[2021-12-18T16:07:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Spring-Security-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-123]]></loc>
+		<lastmod><![CDATA[2021-12-18T14:18:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/jackson-deserialize-json-unknown-properties]]></loc>
+		<lastmod><![CDATA[2021-12-08T09:13:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Jackson-On-Baeldung.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/etags-for-rest-with-spring]]></loc>
+		<lastmod><![CDATA[2021-11-25T17:14:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Rest-with-Spring-dark.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-data-solr]]></loc>
+		<lastmod><![CDATA[2021-11-09T16:11:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Persistence-On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/jackson-advanced-annotations]]></loc>
+		<lastmod><![CDATA[2021-10-28T04:58:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-JSON-On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/no-bean-named-springsecurityfilterchain-is-defined]]></loc>
+		<lastmod><![CDATA[2021-10-26T19:28:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Spring-Security-dark.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-security-digest-authentication]]></loc>
+		<lastmod><![CDATA[2021-10-26T19:19:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-04.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-beandefinitionstoreexception]]></loc>
+		<lastmod><![CDATA[2021-10-26T19:15:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-exceptions.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-34]]></loc>
+		<lastmod><![CDATA[2021-10-23T06:17:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-175]]></loc>
+		<lastmod><![CDATA[2021-10-23T05:20:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-173]]></loc>
+		<lastmod><![CDATA[2021-10-23T05:19:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-172]]></loc>
+		<lastmod><![CDATA[2021-10-23T05:18:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-168]]></loc>
+		<lastmod><![CDATA[2021-10-23T05:17:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-dark.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-167]]></loc>
+		<lastmod><![CDATA[2021-10-23T05:15:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-green.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-255]]></loc>
+		<lastmod><![CDATA[2021-10-23T04:59:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-229]]></loc>
+		<lastmod><![CDATA[2021-10-23T04:47:49+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-228]]></loc>
+		<lastmod><![CDATA[2021-10-23T04:37:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/hibernate-common-performance-problems-in-logs]]></loc>
+		<lastmod><![CDATA[2021-10-23T04:21:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-persistence.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-45]]></loc>
+		<lastmod><![CDATA[2021-10-23T03:28:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/ops/os-data-into-elastic-stack]]></loc>
+		<lastmod><![CDATA[2021-10-09T14:51:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2017/08/On-Baeldung-2.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-data-couchbase-buckets-and-spatial-view-queries]]></loc>
+		<lastmod><![CDATA[2021-10-09T14:50:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-persistence.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-365]]></loc>
+		<lastmod><![CDATA[2021-10-01T16:02:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-368]]></loc>
+		<lastmod><![CDATA[2021-10-01T14:40:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-340]]></loc>
+		<lastmod><![CDATA[2021-10-01T14:28:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-339]]></loc>
+		<lastmod><![CDATA[2021-10-01T14:26:50+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-301]]></loc>
+		<lastmod><![CDATA[2021-10-01T11:55:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-276]]></loc>
+		<lastmod><![CDATA[2021-10-01T11:43:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-253]]></loc>
+		<lastmod><![CDATA[2021-10-01T11:34:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-243]]></loc>
+		<lastmod><![CDATA[2021-10-01T11:32:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-137]]></loc>
+		<lastmod><![CDATA[2021-10-01T10:24:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-121]]></loc>
+		<lastmod><![CDATA[2021-10-01T10:17:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-3]]></loc>
+		<lastmod><![CDATA[2021-10-01T10:13:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-14]]></loc>
+		<lastmod><![CDATA[2021-10-01T10:10:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-13]]></loc>
+		<lastmod><![CDATA[2021-10-01T10:08:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-10]]></loc>
+		<lastmod><![CDATA[2021-10-01T10:07:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-210]]></loc>
+		<lastmod><![CDATA[2021-09-30T11:41:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-215]]></loc>
+		<lastmod><![CDATA[2021-08-17T15:03:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-216]]></loc>
+		<lastmod><![CDATA[2021-08-17T15:03:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-217]]></loc>
+		<lastmod><![CDATA[2021-08-17T15:01:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-218]]></loc>
+		<lastmod><![CDATA[2021-08-17T14:59:28+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-221]]></loc>
+		<lastmod><![CDATA[2021-08-17T14:54:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-green.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-223]]></loc>
+		<lastmod><![CDATA[2021-08-17T14:53:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-green.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-225]]></loc>
+		<lastmod><![CDATA[2021-08-17T14:52:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-273]]></loc>
+		<lastmod><![CDATA[2021-08-17T14:46:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-271]]></loc>
+		<lastmod><![CDATA[2021-08-17T14:45:03+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-264]]></loc>
+		<lastmod><![CDATA[2021-08-17T14:42:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-257]]></loc>
+		<lastmod><![CDATA[2021-08-17T14:39:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-248]]></loc>
+		<lastmod><![CDATA[2021-08-17T14:36:29+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-247]]></loc>
+		<lastmod><![CDATA[2021-08-15T20:17:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-234]]></loc>
+		<lastmod><![CDATA[2021-08-15T20:15:03+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-227]]></loc>
+		<lastmod><![CDATA[2021-08-15T20:12:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-283]]></loc>
+		<lastmod><![CDATA[2021-08-15T17:29:29+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-287]]></loc>
+		<lastmod><![CDATA[2021-08-15T17:24:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-288]]></loc>
+		<lastmod><![CDATA[2021-08-15T17:22:49+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-295]]></loc>
+		<lastmod><![CDATA[2021-08-15T17:20:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-333]]></loc>
+		<lastmod><![CDATA[2021-08-15T17:08:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-344]]></loc>
+		<lastmod><![CDATA[2021-08-15T16:59:27+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-345]]></loc>
+		<lastmod><![CDATA[2021-08-15T16:57:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-49]]></loc>
+		<lastmod><![CDATA[2021-08-10T22:08:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-334]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:25:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-319]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:21:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-317]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:20:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-306]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:17:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-305]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:16:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-299]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:15:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-297]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:13:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-286]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:12:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-279]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:10:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-266]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:07:27+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-250]]></loc>
+		<lastmod><![CDATA[2021-08-10T21:02:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-241]]></loc>
+		<lastmod><![CDATA[2021-08-10T20:08:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-240]]></loc>
+		<lastmod><![CDATA[2021-08-10T20:04:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-201]]></loc>
+		<lastmod><![CDATA[2021-08-10T19:28:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-200]]></loc>
+		<lastmod><![CDATA[2021-08-10T19:27:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-194]]></loc>
+		<lastmod><![CDATA[2021-08-10T19:21:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-191]]></loc>
+		<lastmod><![CDATA[2021-08-10T19:21:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-188]]></loc>
+		<lastmod><![CDATA[2021-08-10T19:18:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-187]]></loc>
+		<lastmod><![CDATA[2021-08-10T19:17:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-186]]></loc>
+		<lastmod><![CDATA[2021-08-10T19:17:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-185]]></loc>
+		<lastmod><![CDATA[2021-08-10T19:16:12+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-171]]></loc>
+		<lastmod><![CDATA[2021-08-10T19:05:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-44]]></loc>
+		<lastmod><![CDATA[2021-08-06T18:10:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-31]]></loc>
+		<lastmod><![CDATA[2021-08-06T18:06:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-24]]></loc>
+		<lastmod><![CDATA[2021-08-06T18:05:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-195]]></loc>
+		<lastmod><![CDATA[2021-08-06T16:43:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-147]]></loc>
+		<lastmod><![CDATA[2021-08-06T16:16:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-green.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-140]]></loc>
+		<lastmod><![CDATA[2021-08-06T16:09:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-36]]></loc>
+		<lastmod><![CDATA[2021-08-06T15:28:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-21]]></loc>
+		<lastmod><![CDATA[2021-08-06T15:26:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-14]]></loc>
+		<lastmod><![CDATA[2021-08-06T15:21:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-2]]></loc>
+		<lastmod><![CDATA[2021-08-06T15:20:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-17]]></loc>
+		<lastmod><![CDATA[2021-08-06T14:15:28+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/grep-in-java]]></loc>
+		<lastmod><![CDATA[2021-08-03T06:20:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Core-Java-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-237]]></loc>
+		<lastmod><![CDATA[2021-07-22T17:05:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-181]]></loc>
+		<lastmod><![CDATA[2021-07-22T17:03:44+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-392]]></loc>
+		<lastmod><![CDATA[2021-07-02T07:51:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-security-persistent-remember-me]]></loc>
+		<lastmod><![CDATA[2021-06-14T18:49:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-04.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/resttemplate-digest-authentication]]></loc>
+		<lastmod><![CDATA[2021-05-27T06:56:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-01.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-379]]></loc>
+		<lastmod><![CDATA[2021-04-02T08:10:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-360]]></loc>
+		<lastmod><![CDATA[2021-03-14T09:55:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-370]]></loc>
+		<lastmod><![CDATA[2021-02-08T06:14:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-369]]></loc>
+		<lastmod><![CDATA[2021-01-25T16:15:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-146]]></loc>
+		<lastmod><![CDATA[2021-01-21T14:16:12+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-dark.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-349]]></loc>
+		<lastmod><![CDATA[2021-01-21T14:13:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-356]]></loc>
+		<lastmod><![CDATA[2021-01-21T14:11:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-114]]></loc>
+		<lastmod><![CDATA[2021-01-21T14:05:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/pagination-with-a-spring-rest-api-and-an-angularjs-table]]></loc>
+		<lastmod><![CDATA[2021-01-21T14:03:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-On-Spring-dark.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-231]]></loc>
+		<lastmod><![CDATA[2021-01-21T13:49:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-277]]></loc>
+		<lastmod><![CDATA[2021-01-21T13:30:28+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-292]]></loc>
+		<lastmod><![CDATA[2021-01-21T13:29:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-39]]></loc>
+		<lastmod><![CDATA[2021-01-21T11:16:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-211]]></loc>
+		<lastmod><![CDATA[2021-01-21T09:52:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-363]]></loc>
+		<lastmod><![CDATA[2021-01-14T11:52:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-364]]></loc>
+		<lastmod><![CDATA[2021-01-14T11:43:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-366]]></loc>
+		<lastmod><![CDATA[2021-01-14T11:28:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-367]]></loc>
+		<lastmod><![CDATA[2021-01-08T05:51:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-mvc-apache-tiles]]></loc>
+		<lastmod><![CDATA[2020-12-30T13:46:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-On-Spring-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-mvc-form-tutorial]]></loc>
+		<lastmod><![CDATA[2020-12-27T15:11:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2017/08/Spring-MVC-3.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/08/Basic-Forms-with-Spring-MVC.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/08/spring-mvc-form-create.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/08/spring-mvc-form-view.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-122]]></loc>
+		<lastmod><![CDATA[2020-12-18T19:02:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-51]]></loc>
+		<lastmod><![CDATA[2020-12-18T18:47:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-13]]></loc>
+		<lastmod><![CDATA[2020-12-18T18:46:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-46]]></loc>
+		<lastmod><![CDATA[2020-12-18T18:46:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2016-week-review-5]]></loc>
+		<lastmod><![CDATA[2020-12-18T18:37:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-113]]></loc>
+		<lastmod><![CDATA[2020-12-18T18:37:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-268]]></loc>
+		<lastmod><![CDATA[2020-12-18T18:05:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-337]]></loc>
+		<lastmod><![CDATA[2020-12-18T17:47:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-338]]></loc>
+		<lastmod><![CDATA[2020-12-18T17:39:50+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-355]]></loc>
+		<lastmod><![CDATA[2020-12-18T17:38:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-29]]></loc>
+		<lastmod><![CDATA[2020-12-18T16:58:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-30]]></loc>
+		<lastmod><![CDATA[2020-12-18T16:56:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-32]]></loc>
+		<lastmod><![CDATA[2020-12-18T16:54:40+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-33]]></loc>
+		<lastmod><![CDATA[2020-12-18T16:51:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-50]]></loc>
+		<lastmod><![CDATA[2020-12-18T16:36:27+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2016-week-review-2]]></loc>
+		<lastmod><![CDATA[2020-12-18T16:33:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2016-week-review-3]]></loc>
+		<lastmod><![CDATA[2020-12-18T16:31:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-131]]></loc>
+		<lastmod><![CDATA[2020-12-18T16:15:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-145]]></loc>
+		<lastmod><![CDATA[2020-12-18T16:08:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-362]]></loc>
+		<lastmod><![CDATA[2020-12-04T11:41:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/custom-error-page-spring-mvc]]></loc>
+		<lastmod><![CDATA[2020-11-29T13:30:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Spring-On-Baeldung-3.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-361]]></loc>
+		<lastmod><![CDATA[2020-11-27T11:16:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-359]]></loc>
+		<lastmod><![CDATA[2020-11-13T19:11:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-358]]></loc>
+		<lastmod><![CDATA[2020-11-06T09:11:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-357]]></loc>
+		<lastmod><![CDATA[2020-10-30T06:27:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-347]]></loc>
+		<lastmod><![CDATA[2020-10-07T13:16:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-148]]></loc>
+		<lastmod><![CDATA[2020-10-07T11:49:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-290]]></loc>
+		<lastmod><![CDATA[2020-10-07T10:51:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-353]]></loc>
+		<lastmod><![CDATA[2020-10-02T08:51:40+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-351]]></loc>
+		<lastmod><![CDATA[2020-09-23T05:59:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-350]]></loc>
+		<lastmod><![CDATA[2020-09-11T05:06:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/sso-spring-security-oauth2-legacy]]></loc>
+		<lastmod><![CDATA[2020-09-10T10:31:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2020/03/Featured-Security-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-116]]></loc>
+		<lastmod><![CDATA[2020-09-05T08:45:12+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-117]]></loc>
+		<lastmod><![CDATA[2020-09-05T08:43:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-45]]></loc>
+		<lastmod><![CDATA[2020-09-05T07:33:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-110]]></loc>
+		<lastmod><![CDATA[2020-09-05T07:28:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/json-api-java-spring-web-app]]></loc>
+		<lastmod><![CDATA[2020-08-31T14:59:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2017/08/On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-348]]></loc>
+		<lastmod><![CDATA[2020-08-28T05:08:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-security-run-as-auth]]></loc>
+		<lastmod><![CDATA[2020-08-19T03:02:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-security.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-346]]></loc>
+		<lastmod><![CDATA[2020-08-13T12:28:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-in-2017]]></loc>
+		<lastmod><![CDATA[2020-08-06T08:45:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-50]]></loc>
+		<lastmod><![CDATA[2020-07-29T19:10:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-15]]></loc>
+		<lastmod><![CDATA[2020-07-29T19:08:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/guava-collections]]></loc>
+		<lastmod><![CDATA[2020-07-29T18:15:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Guava-5-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/guava-order]]></loc>
+		<lastmod><![CDATA[2020-07-29T18:13:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Guava-2-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/hamcrest-collections-arrays]]></loc>
+		<lastmod><![CDATA[2020-07-29T18:10:40+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-On-Baeldung-dark.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-19]]></loc>
+		<lastmod><![CDATA[2020-07-29T18:03:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/guava-write-to-file-read-from-file]]></loc>
+		<lastmod><![CDATA[2020-07-29T17:53:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Guava-5-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/guava-sets]]></loc>
+		<lastmod><![CDATA[2020-07-29T17:44:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Guava-4-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-165]]></loc>
+		<lastmod><![CDATA[2020-07-29T17:18:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/guava-functions-predicates]]></loc>
+		<lastmod><![CDATA[2020-07-28T14:48:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Guava-4-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/guava-math]]></loc>
+		<lastmod><![CDATA[2020-07-28T14:45:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Guava-4-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-343]]></loc>
+		<lastmod><![CDATA[2020-07-25T04:18:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-custom-scope]]></loc>
+		<lastmod><![CDATA[2020-07-18T23:42:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-On-Spring-blue.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-342]]></loc>
+		<lastmod><![CDATA[2020-07-17T07:03:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-341]]></loc>
+		<lastmod><![CDATA[2020-07-12T10:09:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-security-auto-login-user-after-registration]]></loc>
+		<lastmod><![CDATA[2020-06-28T07:38:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2017/08/Spring-Security-2.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-19]]></loc>
+		<lastmod><![CDATA[2020-06-25T08:11:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-304]]></loc>
+		<lastmod><![CDATA[2020-06-25T03:23:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-security-oauth-dynamic-client-registration]]></loc>
+		<lastmod><![CDATA[2020-06-12T09:59:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Spring-Security-green.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/logout-spring-security-oauth-legacy]]></loc>
+		<lastmod><![CDATA[2020-06-07T16:16:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Spring-Security-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-security-oauth-revoke-tokens]]></loc>
+		<lastmod><![CDATA[2020-06-07T16:08:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Spring-Security-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-336]]></loc>
+		<lastmod><![CDATA[2020-06-05T06:15:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-132]]></loc>
+		<lastmod><![CDATA[2020-05-21T11:28:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-269]]></loc>
+		<lastmod><![CDATA[2020-05-21T10:59:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-12]]></loc>
+		<lastmod><![CDATA[2020-05-21T10:42:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-332]]></loc>
+		<lastmod><![CDATA[2020-05-09T08:49:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-330]]></loc>
+		<lastmod><![CDATA[2020-04-24T07:44:44+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-238]]></loc>
+		<lastmod><![CDATA[2020-04-17T11:12:13+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-249]]></loc>
+		<lastmod><![CDATA[2020-04-17T11:07:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-246]]></loc>
+		<lastmod><![CDATA[2020-04-17T11:05:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-2]]></loc>
+		<lastmod><![CDATA[2020-04-17T09:11:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-329]]></loc>
+		<lastmod><![CDATA[2020-04-17T06:26:50+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/testing-rest-api-with-multiple-media-types]]></loc>
+		<lastmod><![CDATA[2020-03-28T21:24:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-01.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-326]]></loc>
+		<lastmod><![CDATA[2020-03-27T06:49:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-325]]></loc>
+		<lastmod><![CDATA[2020-03-20T05:24:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-324]]></loc>
+		<lastmod><![CDATA[2020-03-13T05:14:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-app-test-the-rest-api]]></loc>
+		<lastmod><![CDATA[2020-03-11T11:32:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-35]]></loc>
+		<lastmod><![CDATA[2020-03-11T10:59:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-118]]></loc>
+		<lastmod><![CDATA[2020-03-11T10:39:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-265]]></loc>
+		<lastmod><![CDATA[2020-03-11T06:33:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-43]]></loc>
+		<lastmod><![CDATA[2020-03-11T05:13:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-254]]></loc>
+		<lastmod><![CDATA[2020-03-11T03:29:29+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-323]]></loc>
+		<lastmod><![CDATA[2020-03-06T06:21:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-322]]></loc>
+		<lastmod><![CDATA[2020-02-28T05:09:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-321]]></loc>
+		<lastmod><![CDATA[2020-02-21T05:43:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-320]]></loc>
+		<lastmod><![CDATA[2020-02-14T07:06:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/jackson-json-view-annotation]]></loc>
+		<lastmod><![CDATA[2020-02-12T14:03:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Jackson-On-Baeldung.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/schedule-to-reddit-from-website-feed]]></loc>
+		<lastmod><![CDATA[2020-02-12T12:32:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-retry-to-submit-inactive-post]]></loc>
+		<lastmod><![CDATA[2020-02-12T12:12:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/jackson-field-serializable-deserializable-or-not]]></loc>
+		<lastmod><![CDATA[2020-02-12T12:09:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Jackson-On-Baeldung.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-app-replace-reddit-auth-with-form-based-login]]></loc>
+		<lastmod><![CDATA[2020-02-12T12:04:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-web-app-improvements-3]]></loc>
+		<lastmod><![CDATA[2020-02-12T12:00:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-app-maintain-full-history-of-post-operations]]></loc>
+		<lastmod><![CDATA[2020-02-12T11:55:49+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-spring.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-web-app-improvements-4]]></loc>
+		<lastmod><![CDATA[2020-02-12T11:55:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/orika-mapping]]></loc>
+		<lastmod><![CDATA[2020-02-12T10:58:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Data-4-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/jetty-embedded]]></loc>
+		<lastmod><![CDATA[2020-02-12T06:41:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-dataintegrityviolationexception]]></loc>
+		<lastmod><![CDATA[2020-02-04T03:15:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Persistence-On-Baeldung.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-security-oauth-post-to-reddit]]></loc>
+		<lastmod><![CDATA[2020-02-04T02:50:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-schedule-posts-to-reddit]]></loc>
+		<lastmod><![CDATA[2020-02-04T02:49:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/registration-password-strength-and-rules]]></loc>
+		<lastmod><![CDATA[2020-02-04T02:46:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-318]]></loc>
+		<lastmod><![CDATA[2020-01-31T11:27:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-316]]></loc>
+		<lastmod><![CDATA[2020-01-17T16:59:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-294]]></loc>
+		<lastmod><![CDATA[2020-01-17T16:31:28+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-10]]></loc>
+		<lastmod><![CDATA[2020-01-17T02:30:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-20]]></loc>
+		<lastmod><![CDATA[2020-01-17T02:23:49+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-315]]></loc>
+		<lastmod><![CDATA[2020-01-10T11:55:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-314]]></loc>
+		<lastmod><![CDATA[2020-01-02T08:50:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-313]]></loc>
+		<lastmod><![CDATA[2019-12-27T08:01:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-312]]></loc>
+		<lastmod><![CDATA[2019-12-23T07:50:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-308]]></loc>
+		<lastmod><![CDATA[2019-11-22T12:37:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-135]]></loc>
+		<lastmod><![CDATA[2019-11-05T11:45:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-303]]></loc>
+		<lastmod><![CDATA[2019-10-19T05:15:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/gson-serialization-guide]]></loc>
+		<lastmod><![CDATA[2019-10-18T05:26:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-02.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-web-app-improvements-1]]></loc>
+		<lastmod><![CDATA[2019-10-17T13:50:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-in-2019]]></loc>
+		<lastmod><![CDATA[2019-10-13T17:09:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2017/08/On-Baeldung-2.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-302]]></loc>
+		<lastmod><![CDATA[2019-10-11T10:13:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/hamcrest-file-matchers]]></loc>
+		<lastmod><![CDATA[2019-09-28T19:23:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2017/08/Java-on-Baeldung-2.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-300]]></loc>
+		<lastmod><![CDATA[2019-09-27T09:52:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-298]]></loc>
+		<lastmod><![CDATA[2019-09-13T11:39:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-5]]></loc>
+		<lastmod><![CDATA[2019-09-07T11:00:13+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-6]]></loc>
+		<lastmod><![CDATA[2019-09-07T10:59:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-150]]></loc>
+		<lastmod><![CDATA[2019-09-06T18:49:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-154]]></loc>
+		<lastmod><![CDATA[2019-09-06T18:45:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-296]]></loc>
+		<lastmod><![CDATA[2019-08-30T10:00:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spock-stub-mock-spy]]></loc>
+		<lastmod><![CDATA[2019-08-23T13:23:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2017/08/On-Baeldung-2.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spock-extensions]]></loc>
+		<lastmod><![CDATA[2019-08-23T13:23:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2017/08/On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-293]]></loc>
+		<lastmod><![CDATA[2019-08-09T13:10:27+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-291]]></loc>
+		<lastmod><![CDATA[2019-07-26T09:07:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-136]]></loc>
+		<lastmod><![CDATA[2019-07-22T15:13:50+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-256]]></loc>
+		<lastmod><![CDATA[2019-07-19T14:39:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-242]]></loc>
+		<lastmod><![CDATA[2019-07-19T10:29:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-115]]></loc>
+		<lastmod><![CDATA[2019-07-19T10:13:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-274]]></loc>
+		<lastmod><![CDATA[2019-07-19T10:11:12+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-280]]></loc>
+		<lastmod><![CDATA[2019-07-19T10:10:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-284]]></loc>
+		<lastmod><![CDATA[2019-07-19T10:09:27+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/xmlunit2]]></loc>
+		<lastmod><![CDATA[2019-07-18T14:49:28+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-testing.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-285]]></loc>
+		<lastmod><![CDATA[2019-06-14T06:02:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-282]]></loc>
+		<lastmod><![CDATA[2019-05-24T10:52:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-281]]></loc>
+		<lastmod><![CDATA[2019-05-17T09:17:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-134]]></loc>
+		<lastmod><![CDATA[2019-04-19T23:17:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-182]]></loc>
+		<lastmod><![CDATA[2019-04-19T23:04:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-184]]></loc>
+		<lastmod><![CDATA[2019-04-19T23:01:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-27]]></loc>
+		<lastmod><![CDATA[2019-04-19T22:11:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-233]]></loc>
+		<lastmod><![CDATA[2019-04-19T21:13:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-275]]></loc>
+		<lastmod><![CDATA[2019-04-05T03:55:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-272]]></loc>
+		<lastmod><![CDATA[2019-03-14T22:03:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-183]]></loc>
+		<lastmod><![CDATA[2019-02-15T15:31:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-214]]></loc>
+		<lastmod><![CDATA[2019-02-15T14:41:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-7]]></loc>
+		<lastmod><![CDATA[2019-02-15T13:42:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-189]]></loc>
+		<lastmod><![CDATA[2019-02-15T13:00:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-263]]></loc>
+		<lastmod><![CDATA[2019-01-10T19:44:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-262]]></loc>
+		<lastmod><![CDATA[2019-01-04T12:41:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-261]]></loc>
+		<lastmod><![CDATA[2019-01-03T08:06:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-260]]></loc>
+		<lastmod><![CDATA[2018-12-21T08:22:03+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-259]]></loc>
+		<lastmod><![CDATA[2018-12-14T07:40:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-258]]></loc>
+		<lastmod><![CDATA[2018-12-11T09:21:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-in-2018]]></loc>
+		<lastmod><![CDATA[2018-11-06T18:20:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Java-On-Baeldung-2.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-logging-ndc-log4j]]></loc>
+		<lastmod><![CDATA[2018-11-04T21:56:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Core-Java-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/top-10-2014]]></loc>
+		<lastmod><![CDATA[2018-11-02T20:16:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Programming-4-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-23]]></loc>
+		<lastmod><![CDATA[2018-10-16T14:42:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-1]]></loc>
+		<lastmod><![CDATA[2018-10-16T14:23:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-4]]></loc>
+		<lastmod><![CDATA[2018-10-16T14:23:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-9]]></loc>
+		<lastmod><![CDATA[2018-10-16T14:19:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-44]]></loc>
+		<lastmod><![CDATA[2018-10-16T14:17:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/rest-api-search-querydsl-web-in-spring-data-jpa]]></loc>
+		<lastmod><![CDATA[2018-07-24T09:16:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-236]]></loc>
+		<lastmod><![CDATA[2018-07-16T08:47:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/conferences-in-may-2016]]></loc>
+		<lastmod><![CDATA[2018-07-12T18:41:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-cloud.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-web-app-improvements-5]]></loc>
+		<lastmod><![CDATA[2018-07-01T15:48:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-235]]></loc>
+		<lastmod><![CDATA[2018-06-29T09:15:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/rate-limit-access-to-the-reddit-api]]></loc>
+		<lastmod><![CDATA[2018-06-24T15:35:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-app-user-profile]]></loc>
+		<lastmod><![CDATA[2018-06-24T15:33:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-app-roles-and-privileges]]></loc>
+		<lastmod><![CDATA[2018-06-24T15:32:49+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-232]]></loc>
+		<lastmod><![CDATA[2018-06-15T05:03:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-170]]></loc>
+		<lastmod><![CDATA[2018-06-08T18:27:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-155]]></loc>
+		<lastmod><![CDATA[2018-06-08T18:27:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-153]]></loc>
+		<lastmod><![CDATA[2018-06-08T18:26:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-16]]></loc>
+		<lastmod><![CDATA[2018-06-08T18:25:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-11]]></loc>
+		<lastmod><![CDATA[2018-05-09T21:03:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-46]]></loc>
+		<lastmod><![CDATA[2018-05-09T20:56:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-190]]></loc>
+		<lastmod><![CDATA[2018-04-03T18:56:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-212]]></loc>
+		<lastmod><![CDATA[2018-01-24T21:02:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-209]]></loc>
+		<lastmod><![CDATA[2017-12-27T21:07:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-208]]></loc>
+		<lastmod><![CDATA[2017-12-21T19:14:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-199]]></loc>
+		<lastmod><![CDATA[2017-10-25T14:29:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-197]]></loc>
+		<lastmod><![CDATA[2017-10-07T18:21:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-7]]></loc>
+		<lastmod><![CDATA[2017-06-30T17:05:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-18]]></loc>
+		<lastmod><![CDATA[2017-06-30T17:00:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-20]]></loc>
+		<lastmod><![CDATA[2017-06-30T16:57:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-48]]></loc>
+		<lastmod><![CDATA[2017-06-30T15:46:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-22]]></loc>
+		<lastmod><![CDATA[2017-06-24T16:38:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-112]]></loc>
+		<lastmod><![CDATA[2017-06-24T15:49:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-179]]></loc>
+		<lastmod><![CDATA[2017-06-06T12:26:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-156]]></loc>
+		<lastmod><![CDATA[2016-12-27T11:07:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-152]]></loc>
+		<lastmod><![CDATA[2016-11-24T20:22:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-151]]></loc>
+		<lastmod><![CDATA[2016-11-21T18:07:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-127]]></loc>
+		<lastmod><![CDATA[2016-10-09T19:29:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-spring-2016-survey]]></loc>
+		<lastmod><![CDATA[2016-09-26T18:34:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-java.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/reddit-web-app-improvements-6]]></loc>
+		<lastmod><![CDATA[2016-07-25T09:33:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-rest.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-51]]></loc>
+		<lastmod><![CDATA[2016-07-21T10:36:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-18]]></loc>
+		<lastmod><![CDATA[2016-07-21T09:27:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-11]]></loc>
+		<lastmod><![CDATA[2016-07-21T09:14:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-6]]></loc>
+		<lastmod><![CDATA[2016-07-21T09:07:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2015-week-review-1]]></loc>
+		<lastmod><![CDATA[2016-07-21T08:56:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-49]]></loc>
+		<lastmod><![CDATA[2016-07-21T08:17:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-47]]></loc>
+		<lastmod><![CDATA[2016-07-21T08:08:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/My-Weekly-Review-on-Baeldung.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-133]]></loc>
+		<lastmod><![CDATA[2016-07-20T17:47:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-128]]></loc>
+		<lastmod><![CDATA[2016-07-20T17:32:40+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-126]]></loc>
+		<lastmod><![CDATA[2016-07-20T16:46:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-web-weekly-120]]></loc>
+		<lastmod><![CDATA[2016-07-20T16:30:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/10/baeldung-icon-weekly-review.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-15]]></loc>
+		<lastmod><![CDATA[2016-07-20T12:32:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-8]]></loc>
+		<lastmod><![CDATA[2016-07-20T12:24:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/2014-week-review-3]]></loc>
+		<lastmod><![CDATA[2016-07-20T12:19:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/best-of-2013]]></loc>
+		<lastmod><![CDATA[2016-07-20T12:12:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2014/06/baeldung-iconography-greenscale-01-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-559]]></loc>
+		<lastmod><![CDATA[2024-09-12T18:02:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/intellij-stop-limit-indexing]]></loc>
+		<lastmod><![CDATA[2024-09-15T19:58:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Programming-4-k-featured.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/Disable-Synchronization-on-Frame-or-Tab-Activation.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/Exclude-Unnecessary-Files-from-Indexing.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/Adjust-Project-Reload-Settings.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/Invalidate-Cache-Only-When-Necessary.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-palindrome-integer-test]]></loc>
+		<lastmod><![CDATA[2024-09-15T20:39:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-12.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/jvm-dynamic-attach-serviceability-agent]]></loc>
+		<lastmod><![CDATA[2024-09-20T07:21:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-10.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-streams-findany-anymatch]]></loc>
+		<lastmod><![CDATA[2024-09-20T09:10:13+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-15.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/feign-client-completablefuture-spring-boot]]></loc>
+		<lastmod><![CDATA[2024-09-20T09:12:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-11.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-560]]></loc>
+		<lastmod><![CDATA[2024-09-20T10:19:03+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-performance-2-i-i-multiplication]]></loc>
+		<lastmod><![CDATA[2024-09-23T06:34:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-12.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/stream-api-jdbc-resultset]]></loc>
+		<lastmod><![CDATA[2024-09-23T14:52:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-12.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/avro-schema-list-objects]]></loc>
+		<lastmod><![CDATA[2024-09-26T16:30:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-12.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/maven-avro-plugin.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-561]]></loc>
+		<lastmod><![CDATA[2024-09-27T12:33:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/jdbc-resultset-excel]]></loc>
+		<lastmod><![CDATA[2024-09-30T06:48:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Persistence-On-Baeldung.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/BAEL-8564-export-excel.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/jpa-optional-field]]></loc>
+		<lastmod><![CDATA[2024-09-30T06:56:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Persistence-On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-jpa-clone-entity]]></loc>
+		<lastmod><![CDATA[2024-10-02T08:50:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Persistence-On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-multiply-numbers-overflow]]></loc>
+		<lastmod><![CDATA[2024-10-02T08:53:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-12.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/intellij-count-lines-java-code]]></loc>
+		<lastmod><![CDATA[2024-10-03T13:56:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-15.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/open-settings.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/install-the-statistic-plugin.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/open-the-statistic-overview.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/java-tab.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/open-search-feature.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/regex-mode.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/total-lines.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/09/non-empty-lines.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-562]]></loc>
+		<lastmod><![CDATA[2024-10-03T15:44:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/apache-hadoop-introduction]]></loc>
+		<lastmod><![CDATA[2024-10-03T20:59:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-11.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-563]]></loc>
+		<lastmod><![CDATA[2024-10-07T15:48:27+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-spring-boot-test-mock-value]]></loc>
+		<lastmod><![CDATA[2024-10-08T17:07:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2021/09/Spring-Featured-Image-05.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-years-starting-sunday-year-range]]></loc>
+		<lastmod><![CDATA[2024-10-09T20:35:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-14.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/kafka-consumer-offset]]></loc>
+		<lastmod><![CDATA[2024-10-10T12:13:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/05/admin-ajax-2.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/10/kafka-ui.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-float-integer-conversion]]></loc>
+		<lastmod><![CDATA[2024-10-17T21:23:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-15.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-564]]></loc>
+		<lastmod><![CDATA[2024-10-18T09:43:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-array-find-index-leftmost-duplicate]]></loc>
+		<lastmod><![CDATA[2024-10-20T16:26:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-10.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/10/findFirstDuplicateHashset.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/10/firstDuplicateArrayIndexing.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/kafka-consumer-seek]]></loc>
+		<lastmod><![CDATA[2024-10-21T16:20:19+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-12.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/hibernate-store-basic-arrays-collections-json-xml-types]]></loc>
+		<lastmod><![CDATA[2024-10-21T16:23:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-15.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/mockito-mock-nested-method-calls]]></loc>
+		<lastmod><![CDATA[2024-10-22T15:30:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-13.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/logstash-kafka-differences]]></loc>
+		<lastmod><![CDATA[2024-10-24T03:56:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Data-4-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-avro-get-schema-from-file]]></loc>
+		<lastmod><![CDATA[2024-10-24T04:03:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-12.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-565]]></loc>
+		<lastmod><![CDATA[2024-10-25T12:35:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-566]]></loc>
+		<lastmod><![CDATA[2024-10-31T17:21:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-apache-poi-workbook-evaluation]]></loc>
+		<lastmod><![CDATA[2024-11-03T05:47:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2018/10/Social-Data-4-k-featured.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-bouncy-castle-sign-csr]]></loc>
+		<lastmod><![CDATA[2024-11-04T03:38:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/02/Featured-Security-3.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-data-find-by-property-nested-object]]></loc>
+		<lastmod><![CDATA[2024-11-06T05:28:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Persistence-On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-567]]></loc>
+		<lastmod><![CDATA[2024-11-07T22:07:12+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-boot-disable-hibernate-entity-validation]]></loc>
+		<lastmod><![CDATA[2024-11-13T20:01:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2021/09/Spring-Featured-Image-07.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-568]]></loc>
+		<lastmod><![CDATA[2024-11-14T19:21:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-json-avro-object-convert]]></loc>
+		<lastmod><![CDATA[2024-11-16T11:49:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-11.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-tape-equilibrium-problem]]></loc>
+		<lastmod><![CDATA[2024-11-16T12:25:19+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-11.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-array-remove-all-non-alphabetic-characters-string]]></loc>
+		<lastmod><![CDATA[2024-11-18T20:52:12+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-12.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/spring-reactive-mono-fromcallable-vs-mono-justorempty]]></loc>
+		<lastmod><![CDATA[2024-11-18T21:03:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2021/10/Spring-Featured-Image-08.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/Flow-of-Element-in-Mono.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-map-all-values-same]]></loc>
+		<lastmod><![CDATA[2024-11-20T20:42:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-15.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/thymeleaf-pass-object-modal-dialog]]></loc>
+		<lastmod><![CDATA[2024-11-20T20:55:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2017/08/Spring-MVC-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/book_list.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/book_details.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/intellij-set-gradle-jvm]]></loc>
+		<lastmod><![CDATA[2024-11-20T21:03:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-15.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/Intellij-Gradle-Setting-e1731344060610.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/java-weekly-569]]></loc>
+		<lastmod><![CDATA[2024-11-23T14:06:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Weekly-Reviews-4.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/hibernate-group-by-criteria-api]]></loc>
+		<lastmod><![CDATA[2024-11-24T03:07:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2016/10/social-Persistence-On-Baeldung-1.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://www.baeldung.com/eclipse-quickly-build-jar-file]]></loc>
+		<lastmod><![CDATA[2024-11-25T14:19:27+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/07/Java-Featured-13.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/export-project.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/select-export-wizard.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/file-selection.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/save-jar-info.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/customize-manifest.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/jardesc-created.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/jar-quick-create.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/project-properties.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/config-type-chooser.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/select-build-file.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/select-location.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/select-target.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/set-target.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://www.baeldung.com/wp-content/uploads/2024/11/jar-created.png]]>			</image:loc>
+		</image:image>
+	</url>
+</urlset>
