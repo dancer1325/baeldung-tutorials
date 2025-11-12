@@ -27,20 +27,24 @@
 * TODO:
 We are using maven build profiles to segregate the huge list of individual projects we have in our repository.
 
-The projects are broadly divided into 4 lists: default, default-jdk17, default-jdk8 and default-heavy. 
+The projects are broadly divided into 6 lists: default, default-jdk17, default-jdk22, default-jdk23, default-jdk8 and default-heavy. 
 
-Next, they are segregated further on the basis of the tests that we want to execute.
+Next, they are segregated further based on the tests that we want to execute.
 
 We also have a parents profile to build only parent modules.
 
-Therefore, we have a total of 9 profiles:
+Therefore, we have a total of 13 profiles:
 
 | Profile           | Includes                    | Type of test enabled |
-|-------------------|-----------------------------| -------------------- |
+|-------------------|-----------------------------|----------------------|
 | default           | JDK21 projects              | *UnitTest            |
 | integration       | JDK21 projects              | *IntegrationTest     |
-| default-jdk17     | JDK17 and above projects    | *UnitTest            |
-| integration-jdk17 | JDK17 and above projects    | *IntegrationTest     |
+| default-jdk17     | JDK17 projects              | *UnitTest            |
+| integration-jdk17 | JDK17 projects              | *IntegrationTest     |
+| default-jdk22     | JDK22 projects              | *UnitTest            |
+| integration-jdk22 | JDK22 projects              | *IntegrationTest     |
+| default-jdk23     | JDK23 projects              | *UnitTest            |
+| integration-jdk23 | JDK23 projects              | *IntegrationTest     |
 | default-heavy     | Heavy/long running projects | *UnitTest            |
 | integration-heavy | Heavy/long running projects | *IntegrationTest     |
 | default-jdk8      | JDK8  projects              | *UnitTest            |

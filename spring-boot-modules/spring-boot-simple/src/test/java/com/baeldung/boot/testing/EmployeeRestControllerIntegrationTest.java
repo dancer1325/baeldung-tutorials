@@ -1,20 +1,14 @@
 package com.baeldung.boot.testing;
 
-import com.baeldung.boot.testing.Application;
-import com.baeldung.boot.testing.Employee;
-import com.baeldung.boot.testing.EmployeeRepository;
-import org.junit.After;
-import org.junit.Test;
-import org.junit.runner.RunWith;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration;
-import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;
 import org.springframework.http.MediaType;
-import org.springframework.test.context.junit4.SpringRunner;
+import org.springframework.test.context.TestPropertySource;
 import org.springframework.test.web.servlet.MockMvc;
 
 import java.io.IOException;
@@ -29,12 +23,10 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
-@RunWith(SpringRunner.class)
-@SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT, classes = Application.class)
-@AutoConfigureMockMvc 
-@EnableAutoConfiguration(exclude=SecurityAutoConfiguration.class)
-// @TestPropertySource(locations = "classpath:application-integrationtest.properties")
-@AutoConfigureTestDatabase
+@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.MOCK, classes = Application.class)
+@AutoConfigureMockMvc
+@EnableAutoConfiguration(exclude = SecurityAutoConfiguration.class)
+@TestPropertySource(locations = "classpath:application-integrationtest.properties")
 public class EmployeeRestControllerIntegrationTest {
 
     @Autowired
@@ -43,7 +35,7 @@ public class EmployeeRestControllerIntegrationTest {
     @Autowired
     private EmployeeRepository repository;
 
-    @After
+    @AfterEach
     public void resetDb() {
         repository.deleteAll();
     }
@@ -51,10 +43,12 @@ public class EmployeeRestControllerIntegrationTest {
     @Test
     public void whenValidInput_thenCreateEmployee() throws IOException, Exception {
         Employee bob = new Employee("bob");
-        mvc.perform(post("/api/employees").contentType(MediaType.APPLICATION_JSON).content(JsonUtil.toJson(bob)));
+        mvc.perform(post("/api/employees").contentType(MediaType.APPLICATION_JSON)
+            .content(JsonUtil.toJson(bob)));
 
         List<Employee> found = repository.findAll();
-        assertThat(found).extracting(Employee::getName).containsOnly("bob");
+        assertThat(found).extracting(Employee::getName)
+            .containsOnly("bob");
     }
 
     @Test

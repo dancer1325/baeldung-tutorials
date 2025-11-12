@@ -1,12 +1,9 @@
 ## Spring Boot Graphql
 
-This module contains articles about Spring Boot Graphql 2
+This module contains code about Spring Boot Graphql
 
 ### The Course
 The "REST With Spring" Classes: http://bit.ly/restwithspring
-
-### Relevant Articles:
-
 
 ### GraphQL sample queries
 

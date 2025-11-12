@@ -1,19 +1,15 @@
 package com.baeldung.boot.testing;
 
-import com.baeldung.boot.testing.Employee;
-import com.baeldung.boot.testing.EmployeeRepository;
-import com.baeldung.boot.testing.EmployeeService;
-import com.baeldung.boot.testing.EmployeeServiceImpl;
-import org.junit.Before;
-import org.junit.Test;
-import org.junit.runner.RunWith;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mockito;
 import org.mockito.internal.verification.VerificationModeFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.context.annotation.Bean;
-import org.springframework.test.context.junit4.SpringRunner;
+import org.springframework.test.context.junit.jupiter.SpringExtension;
 
 import java.util.Arrays;
 import java.util.List;
@@ -21,7 +17,7 @@ import java.util.Optional;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@RunWith(SpringRunner.class)
+@ExtendWith(SpringExtension.class)
 public class EmployeeServiceImplIntegrationTest {
 
     @TestConfiguration
@@ -38,7 +34,7 @@ public class EmployeeServiceImplIntegrationTest {
     @MockBean
     private EmployeeRepository employeeRepository;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         Employee john = new Employee("john");
         john.setId(11L);
@@ -48,12 +44,18 @@ public class EmployeeServiceImplIntegrationTest {
 
         List<Employee> allEmployees = Arrays.asList(john, bob, alex);
 
-        Mockito.when(employeeRepository.findByName(john.getName())).thenReturn(john);
-        Mockito.when(employeeRepository.findByName(alex.getName())).thenReturn(alex);
-        Mockito.when(employeeRepository.findByName("wrong_name")).thenReturn(null);
-        Mockito.when(employeeRepository.findById(john.getId())).thenReturn(Optional.of(john));
-        Mockito.when(employeeRepository.findAll()).thenReturn(allEmployees);
-        Mockito.when(employeeRepository.findById(-99L)).thenReturn(Optional.empty());
+        Mockito.when(employeeRepository.findByName(john.getName()))
+            .thenReturn(john);
+        Mockito.when(employeeRepository.findByName(alex.getName()))
+            .thenReturn(alex);
+        Mockito.when(employeeRepository.findByName("wrong_name"))
+            .thenReturn(null);
+        Mockito.when(employeeRepository.findById(john.getId()))
+            .thenReturn(Optional.of(john));
+        Mockito.when(employeeRepository.findAll())
+            .thenReturn(allEmployees);
+        Mockito.when(employeeRepository.findById(-99L))
+            .thenReturn(Optional.empty());
     }
 
     @Test
@@ -111,21 +113,26 @@ public class EmployeeServiceImplIntegrationTest {
 
         List<Employee> allEmployees = employeeService.getAllEmployees();
         verifyFindAllEmployeesIsCalledOnce();
-        assertThat(allEmployees).hasSize(3).extracting(Employee::getName).contains(alex.getName(), john.getName(), bob.getName());
+        assertThat(allEmployees).hasSize(3)
+            .extracting(Employee::getName)
+            .contains(alex.getName(), john.getName(), bob.getName());
     }
 
     private void verifyFindByNameIsCalledOnce(String name) {
-        Mockito.verify(employeeRepository, VerificationModeFactory.times(1)).findByName(name);
+        Mockito.verify(employeeRepository, VerificationModeFactory.times(1))
+            .findByName(name);
         Mockito.reset(employeeRepository);
     }
 
     private void verifyFindByIdIsCalledOnce() {
-        Mockito.verify(employeeRepository, VerificationModeFactory.times(1)).findById(Mockito.anyLong());
+        Mockito.verify(employeeRepository, VerificationModeFactory.times(1))
+            .findById(Mockito.anyLong());
         Mockito.reset(employeeRepository);
     }
 
     private void verifyFindAllEmployeesIsCalledOnce() {
-        Mockito.verify(employeeRepository, VerificationModeFactory.times(1)).findAll();
+        Mockito.verify(employeeRepository, VerificationModeFactory.times(1))
+            .findAll();
         Mockito.reset(employeeRepository);
     }
 }

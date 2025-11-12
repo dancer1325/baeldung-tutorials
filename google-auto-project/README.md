@@ -15,7 +15,7 @@ This module contains articles about automatic code generation
 
 ## Project
 * 2 Maven modules /
-  * "annotation-processor"
-    * == processor + annotation
-  * "annotation-user"
-    * == annotated class
+    * "annotation-processor"
+        * == processor + annotation
+    * "annotation-user"
+        * == annotated class
