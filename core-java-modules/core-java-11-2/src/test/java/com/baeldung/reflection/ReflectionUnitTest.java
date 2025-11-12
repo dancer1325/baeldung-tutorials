@@ -3,6 +3,7 @@ package com.baeldung.reflection;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
@@ -18,6 +19,7 @@ public class ReflectionUnitTest {
 
     @Test
     public void givenObject_whenGetsFieldNamesAtRuntime_thenCorrect() {
+        // EVEN typing as Object -> get the fields
         final Object person = new Person();
         final Field[] fields = person.getClass().getDeclaredFields();
 
@@ -36,8 +38,11 @@ public class ReflectionUnitTest {
         assertEquals("com.baeldung.reflection.Goat", clazz.getCanonicalName());
     }
 
+    // goal
+    //      FROM FULLY qualified class name -> create an instance
     @Test
     public void givenClassName_whenCreatesObject_thenCorrect() throws ClassNotFoundException {
+        // class' instance
         final Class<?> clazz = Class.forName("com.baeldung.reflection.Goat");
 
         assertEquals("Goat", clazz.getSimpleName());
@@ -45,6 +50,15 @@ public class ReflectionUnitTest {
         assertEquals("com.baeldung.reflection.Goat", clazz.getCanonicalName());
     }
 
+    @Test
+    public void givenNOTFULLClassName_whenCreatesObject_thenThrowError() throws ClassNotFoundException {
+        assertThrows(ClassNotFoundException.class,
+                () -> Class.forName("Goat")
+        );
+    }
+
+    // goal
+    //     check EACH class' modifier
     @Test
     public void givenClass_whenRecognisesModifiers_thenCorrect() throws ClassNotFoundException {
         final Class<?> goatClass = Class.forName("com.baeldung.reflection.Goat");
@@ -57,6 +71,8 @@ public class ReflectionUnitTest {
         assertTrue(Modifier.isPublic(animalMods));
     }
 
+    //  goal
+    //      get package information
     @Test
     public void givenClass_whenGetsPackageInfo_thenCorrect() {
         final Goat goat = new Goat("goat");
@@ -66,6 +82,8 @@ public class ReflectionUnitTest {
         assertEquals("com.baeldung.reflection", pkg.getName());
     }
 
+    // goal
+    //      get super class
     @Test
     public void givenClass_whenGetsSuperClass_thenCorrect() {
         final Goat goat = new Goat("goat");
@@ -79,6 +97,8 @@ public class ReflectionUnitTest {
 
     }
 
+    // goal
+    //      get DIRECT (!=INDIRECTLY) implemented interfaces
     @Test
     public void givenClass_whenGetsImplementedInterfaces_thenCorrect() throws ClassNotFoundException {
         final Class<?> goatClass = Class.forName("com.baeldung.reflection.Goat");
@@ -92,6 +112,8 @@ public class ReflectionUnitTest {
         assertEquals("Eating", animalInterfaces[0].getSimpleName());
     }
 
+    // goal
+    //      get constructorS
     @Test
     public void givenClass_whenGetsConstructor_thenCorrect() throws ClassNotFoundException {
         final Class<?> goatClass = Class.forName("com.baeldung.reflection.Goat");
@@ -101,6 +123,8 @@ public class ReflectionUnitTest {
         assertEquals("com.baeldung.reflection.Goat", constructors[0].getName());
     }
 
+    // goal
+    //      get fieldS
     @Test
     public void givenClass_whenGetsFields_thenCorrect() throws ClassNotFoundException {
         final Class<?> animalClass = Class.forName("com.baeldung.reflection.Animal");
@@ -112,6 +136,8 @@ public class ReflectionUnitTest {
         assertTrue(actualFields.containsAll(Arrays.asList("name", "CATEGORY")));
     }
 
+    // goal
+    //      get methodS
     @Test
     public void givenClass_whenGetsMethods_thenCorrect() throws ClassNotFoundException {
         final Class<?> animalClass = Class.forName("com.baeldung.reflection.Animal");
@@ -130,14 +156,20 @@ public class ReflectionUnitTest {
         assertEquals(3, constructors.length);
     }
 
+    // goal
+    //      get specific constructor
     @Test
     public void givenClass_whenGetsEachConstructorByParamTypes_thenCorrect() throws Exception {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
+
+        // .getConstructor(constructor'sParameterTypeInDeclaredOrder)
         birdClass.getConstructor();
         birdClass.getConstructor(String.class);
         birdClass.getConstructor(String.class, boolean.class);
     }
 
+    // goal
+    //      instantiate objects | runtime
     @Test
     public void givenClass_whenInstantiatesObjectsAtRuntime_thenCorrect() throws Exception {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
@@ -146,6 +178,7 @@ public class ReflectionUnitTest {
         final Constructor<?> cons2 = birdClass.getConstructor(String.class);
         final Constructor<?> cons3 = birdClass.getConstructor(String.class, boolean.class);
 
+        // cast
         final Bird bird1 = (Bird) cons1.newInstance();
         final Bird bird2 = (Bird) cons2.newInstance("Weaver bird");
         final Bird bird3 = (Bird) cons3.newInstance("dove", true);
@@ -157,15 +190,19 @@ public class ReflectionUnitTest {
         assertTrue(bird3.walks());
     }
 
+    // goal
+    //      retrieve ONLY class & ALL superclass' ACCESSIBLE public
     @Test
     public void givenClass_whenGetsPublicFields_thenCorrect() throws ClassNotFoundException {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
         final Field[] fields = birdClass.getFields();
-        assertEquals(1, fields.length);
+        assertEquals(1, fields.length);     // ONLY class & ALL superclass' ACCESSIBLE public
         assertEquals("CATEGORY", fields[0].getName());
 
     }
 
+    // goal
+    //      retrieve ONLY class & ALL superclass' ACCESSIBLE public's specific
     @Test
     public void givenClass_whenGetsPublicFieldByName_thenCorrect() throws Exception {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
@@ -174,6 +211,8 @@ public class ReflectionUnitTest {
 
     }
 
+    // goal
+    //      retrieve class & ALL superclass' specific field
     @Test
     public void givenClass_whenGetsDeclaredFields_thenCorrect() throws ClassNotFoundException {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
@@ -182,6 +221,8 @@ public class ReflectionUnitTest {
         assertEquals("walks", fields[0].getName());
     }
 
+    // goal
+    //      retrieve class & ALL superclass' specific fieldName
     @Test
     public void givenClass_whenGetsFieldsByName_thenCorrect() throws Exception {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
@@ -190,6 +231,8 @@ public class ReflectionUnitTest {
 
     }
 
+    // goal
+    //      get field's type
     @Test
     public void givenClassField_whenGetsType_thenCorrect() throws Exception {
         final Field field = Class.forName("com.baeldung.reflection.Bird").getDeclaredField("walks");
@@ -197,12 +240,25 @@ public class ReflectionUnitTest {
         assertEquals("boolean", fieldClass.getSimpleName());
     }
 
+    // goal
+    //      set field's value
+    @Test
+    public void givenClassField_whenGetsValue_thenCorrect() throws Exception {
+        final Bird bird = new Bird();
+        final Field field = bird.getClass().getDeclaredField("walks");
+        field.setAccessible(true);
+        final boolean walks = field.getBoolean(bird);
+        assertTrue(walks);
+    }
+
+    // goal
+    //      set field's value
     @Test
     public void givenClassField_whenSetsAndGetsValue_thenCorrect() throws Exception {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
         final Bird bird = (Bird) birdClass.getConstructor().newInstance();
         final Field field = birdClass.getDeclaredField("walks");
-        field.setAccessible(true);
+        field.setAccessible(true);  // MANDATORY PREVIOUSLY to modify the value
 
         assertFalse(field.getBoolean(bird));
         assertFalse(bird.walks());
@@ -211,9 +267,10 @@ public class ReflectionUnitTest {
 
         assertTrue(field.getBoolean(bird));
         assertTrue(bird.walks());
-
     }
 
+    // goal
+    //      if the field is `public static` -> `.get(null)`
     @Test
     public void givenClassField_whenGetsAndSetsWithNull_thenCorrect() throws Exception {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
@@ -223,6 +280,8 @@ public class ReflectionUnitTest {
         assertEquals("domestic", field.get(null));
     }
 
+    // goal
+    //      class & ALL superclass' ACCESSIBLE public `java.lang.reflect.Method[]`
     @Test
     public void givenClass_whenGetsAllPublicMethods_thenCorrect() throws ClassNotFoundException {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
@@ -233,6 +292,8 @@ public class ReflectionUnitTest {
 
     }
 
+    // goal
+    //      class ONLY public `java.lang.reflect.Method[]`
     @Test
     public void givenClass_whenGetsOnlyDeclaredMethods_thenCorrect() throws ClassNotFoundException {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
@@ -246,6 +307,8 @@ public class ReflectionUnitTest {
 
     }
 
+    // goal
+    //      class ONLY public `java.lang.reflect.Method`
     @Test
     public void givenMethodName_whenGetsMethod_thenCorrect() throws Exception {
         final Bird bird = new Bird();
@@ -256,6 +319,8 @@ public class ReflectionUnitTest {
         assertTrue(setWalksMethod.canAccess(bird));
     }
 
+    // goal
+    //      invoke a method
     @Test
     public void givenMethod_whenInvokes_thenCorrect() throws Exception {
         final Class<?> birdClass = Class.forName("com.baeldung.reflection.Bird");
