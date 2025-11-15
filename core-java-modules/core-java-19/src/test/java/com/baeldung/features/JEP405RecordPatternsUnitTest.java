@@ -13,14 +13,47 @@ public class JEP405RecordPatternsUnitTest {
     Object object = new Location("Home", new GPSPoint(1.0, 2.0));
 
     @Test
+    void givenNestedRecord_whenTestInstanceOfWithNestedPattern_shouldExtractComponents() {
+        Location nestedLocation = new Location("Paris", new GPSPoint(48.8566, 2.3522));
+
+        // match values -- against a -- record type
+        if (nestedLocation instanceof Location(String name, GPSPoint(double lat, double lng))) {
+
+            // bind variables -- to the -- corresponding record's components
+            assertThat(name).isEqualTo("Paris");
+            assertThat(lat).isEqualTo(48.8566);
+            assertThat(lng).isEqualTo(2.3522);
+        }
+    }
+
+    @Test
+    void givenRecord_whenTestRecordPatternBinding_shouldExtractComponents() {
+        Location location = new Location("Madrid", new GPSPoint(40.4168, -3.7038));
+
+        // Record pattern - extracts and binds components directly
+        if (location instanceof Location(String name, GPSPoint(double lat, double lng))) {
+            assertThat(name).isEqualTo("Madrid");
+            assertThat(lat).isEqualTo(40.4168);
+            assertThat(lng).isEqualTo(-3.7038);
+        }
+
+        // simple pattern
+        if (location instanceof Location loc) {
+            assertThat(loc.name()).isEqualTo("Madrid");
+            assertThat(loc.gpsPoint().lat()).isEqualTo(40.4168);
+        }
+    }
+
+    @Test
     void givenObject_whenTestInstanceOfAndCastIdiom_shouldMatchNewInstanceOf() {
         // old Code
         if (object instanceof Location) {
             Location l = (Location) object;
             assertThat(l).isInstanceOf(Location.class);
         }
+
         // new code
-        if (object instanceof Location l) {
+        if (object instanceof Location l) {         // declare a record variable DIRECTLY | `instanceof`
             assertThat(l).isInstanceOf(Location.class);
         }
     }
@@ -28,13 +61,13 @@ public class JEP405RecordPatternsUnitTest {
     @Test
     void givenObject_whenTestDestruct_shouldMatch() {
         // when
-        if (object instanceof Location(var name, var gpsPoint)) {
+        if (object instanceof Location(var name, var gpsPoint)) {       // declare the type -- by -- var
             // then
             assertThat(name).isEqualTo("Home");
             assertThat(gpsPoint).isInstanceOf(GPSPoint.class);
         }
 
-        if (object instanceof Location(var name, GPSPoint(var lat, var lng))) {
+        if (object instanceof Location(var name, GPSPoint(var lat, var lng))) {     // destructure ALL types -- by -- var
             assertThat(lat).isEqualTo(1.0);
             assertThat(lng).isEqualTo(2.0);
         }
@@ -43,28 +76,32 @@ public class JEP405RecordPatternsUnitTest {
     @Test
     void givenObjectIsNull_whenTestNullCheck_shouldNotMatch() {
         Location l = null;
-        if (l instanceof Location location) {
+        if (l instanceof Location location) {       // null does NOT match any record pattern
             assertThat(location).isNotNull();
         }
     }
 
-
     @Test
     void givenObject_whenTestGenericTypeInstanceOf_shouldMatch() {
+        // generic records
         LocationWrapper<Location> locationWrapper = new LocationWrapper<>(new Location("Home", new GPSPoint(1.0, 2.0)), "Description");
+
+        // destructure the record pattern
         if (locationWrapper instanceof LocationWrapper<Location>(var ignored, var description)) {
             assertThat(description).isEqualTo("Description");
         }
     }
 
-
     @Test
     void givenObject_whenTestSwitchExpressionWithTypePattern_shouldMatch() {
+        // switch ALSO accepts record
         String result = switch (object) {
             case Location l -> l.name();
             default -> "default";
         };
         assertThat(result).isEqualTo("Home");
+
+        // destructuring record
         Double result2 = switch (object) {
             case Location(var name, GPSPoint(var lat, var lng)) -> lat;
             default -> 0.0;
@@ -75,14 +112,14 @@ public class JEP405RecordPatternsUnitTest {
     @Test
     void givenObject_whenTestGuardedSwitchExpressionWithTypePattern_shouldMatchAndGuard() {
         String result = switch (object) {
-            case Location(var name, var ignored) when name.equals("Home") -> "Test";
+            case Location(var name, var ignored) when name.equals("Home") -> "Test";        // guard condition == match if object is a Location & name==="Home"
             case Location(var name, var ignored) -> name;
             default -> "default";
         };
         assertThat(result).isEqualTo("Test");
 
         String otherResult = switch (new Location("Other", new GPSPoint(1.0, 2.0))) {
-            case Location(var name, var ignored) when name.equals("Home") -> "Test";
+            case Location(var name, var ignored) when name.equals("Home") -> "Test";        // guard condition == match if object is a Location & name==="Home"
             case Location(var name, var ignored) -> name;
             default -> "default";
         };
