@@ -1,6 +1,6 @@
 package com.baeldung.jakarta;
 
-import static com.baeldung.jakarta.Employee_.QUERY_EMPLOYEE_BY_DEPARTMENT;
+import static com.baeldung.jakarta.Employee_.QUERY_EMPLOYEE_BY_DEPARTMENT;      // static metamodel
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertNull;
@@ -43,6 +43,7 @@ public class JakartaPersistenceApiTest {
         emf = createEntityManagerFactory();
         em = emf.createEntityManager();
 
+        // Schema Manager API
         emf.getSchemaManager()
             .create(true);
 
@@ -96,6 +97,7 @@ public class JakartaPersistenceApiTest {
 
     @Test
     public void whenUsingEnhancedJpql_thenNewFeaturesWorks() {
+        // SELECT e FROM Employee e WHERE e.fullName = 'Tony Blair'
         Employee employee = emf.callInTransaction(em -> em.createQuery("from Employee where fullName = 'Tony Blair'", Employee.class)
             .getSingleResult());
 
@@ -104,7 +106,7 @@ public class JakartaPersistenceApiTest {
 
     @Test
     public void givenNamedQuery_whenQueriedByDepartment_thenReturnCorrectEmployee() {
-
+        // TypedQueryReference<Employee>        == provide compile-time validation
         Map<String, TypedQueryReference<Employee>> namedQueries = emf.getNamedQueries(Employee.class);
 
         List<Employee> employees = em.createQuery(namedQueries.get(QUERY_EMPLOYEE_BY_DEPARTMENT))
@@ -117,7 +119,7 @@ public class JakartaPersistenceApiTest {
     @Test
     public void whenFindEmployeeWithEntityGraph_thenReturnEmployeeWithDepartment() {
         var employeeGraph = emf.callInTransaction(em -> em.createEntityGraph(Employee.class));
-        employeeGraph.addAttributeNode(Employee_.department);
+        employeeGraph.addAttributeNode(Employee_.department);       // access department -- through -- meta-model class
 
         var employee = emf.callInTransaction(em -> em.find(employeeGraph, 7L));
         assertNotNull(employee);
@@ -190,9 +192,10 @@ public class JakartaPersistenceApiTest {
     }
 
     private EntityManagerFactory createEntityManagerFactory() {
-        return new PersistenceConfiguration("EmployeeData").jtaDataSource("java:comp/env/jdbc/EmployeeData")
-            .managedClass(Employee.class)
-            .property(PersistenceConfiguration.LOCK_TIMEOUT, 5000)
+        return new PersistenceConfiguration("EmployeeData")
+                .jtaDataSource("java:comp/env/jdbc/EmployeeData")       // set up the data source
+            .managedClass(Employee.class)           // register the entity
+            .property(PersistenceConfiguration.LOCK_TIMEOUT, 5000)      // configure the Lock Timeout
             .createEntityManagerFactory();
     }
 
