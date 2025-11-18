@@ -9,7 +9,8 @@ public class ImageFileProcessor {
     
     private final ImageFileEditor imageFileEditor;
     private final TimeLogger timeLogger;
-    
+
+    // @Inject | constructor
     @Inject
     public ImageFileProcessor(@PngFileEditorQualifier ImageFileEditor imageFileEditor, TimeLogger timeLogger) {
         this.imageFileEditor = imageFileEditor;
