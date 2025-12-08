@@ -5,6 +5,8 @@ import static org.hamcrest.CoreMatchers.equalTo;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThat;
 import static org.junit.Assert.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+
 import io.micrometer.atlas.AtlasMeterRegistry;
 import io.micrometer.core.instrument.Clock;
 import io.micrometer.core.instrument.Counter;
@@ -12,7 +14,9 @@ import io.micrometer.core.instrument.DistributionSummary;
 import io.micrometer.core.instrument.Gauge;
 import io.micrometer.core.instrument.LongTaskTimer;
 import io.micrometer.core.instrument.Measurement;
+import io.micrometer.core.instrument.Meter;
 import io.micrometer.core.instrument.Metrics;
+import io.micrometer.core.instrument.Tag;
 import io.micrometer.core.instrument.Timer;
 import io.micrometer.core.instrument.composite.CompositeMeterRegistry;
 import io.micrometer.core.instrument.distribution.HistogramSnapshot;
@@ -25,6 +29,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Arrays;
 import java.util.Map;
+import java.util.HashMap;
 import java.util.TreeMap;
 import java.util.Optional;
 import java.util.concurrent.TimeUnit;
@@ -64,11 +69,14 @@ public class MicrometerAtlasManualTest {
         SimpleMeterRegistry oneSimpleMeter = new SimpleMeterRegistry();
         AtlasMeterRegistry atlasMeterRegistry = new AtlasMeterRegistry(atlasConfig, Clock.SYSTEM);
 
+        // 1. add MULTIPLE registries
         compositeRegistry.add(oneSimpleMeter);
         compositeRegistry.add(atlasMeterRegistry);
 
+        // 2. publish SIMULTANEOUSLY application metrics | MULTIPLE supported monitoring systems
         compositeRegistry.gauge("baeldung.heat", 90);
 
+        // 2.1 | SimpleMeterRegistry
         Optional<Gauge> oneGauge = Optional.ofNullable(oneSimpleMeter
           .find("baeldung.heat")
           .gauge());
@@ -83,6 +91,7 @@ public class MicrometerAtlasManualTest {
           .next()
           .getValue(), equalTo(90.00));
 
+        // 2.2 | AtlasMeterRegistry
         Optional<Gauge> atlasGauge = Optional.ofNullable(atlasMeterRegistry
           .find("baeldung.heat")
           .gauge());
@@ -125,19 +134,41 @@ public class MicrometerAtlasManualTest {
     }
 
     @Test
+    public void check_tags() {
+        SimpleMeterRegistry simpleMeterRegistry = new SimpleMeterRegistry();
+        // 1. tags | specific meter
+        simpleMeterRegistry.counter("page.visitors", "age", "20s"); // .counter(name, ...tags)
+
+        // 2. common tags | registry
+        simpleMeterRegistry.config().commonTags("region", "us-east");
+
+        // check tags
+        Counter found = simpleMeterRegistry.find("page.visitors")
+                .tag("age", "20s")
+                .counter();
+        assertNotNull(found);
+    }
+
+    @Test
     public void givenCounter_whenIncrement_thenValueChanged() {
         SimpleMeterRegistry registry = new SimpleMeterRegistry();
+        // 1. ways to create
+        // 1.1 Counter.builder()
         Counter counter = Counter
           .builder("objects.instance")
           .description("indicates instance count of the object")
           .tags("dev", "performance")
           .register(registry);
 
+        // check value is modified
         counter.increment(2.0);
         assertEquals(counter.count(), 2, 0);
 
         counter.increment(-1);
         assertEquals(counter.count(), 1, 0);
+
+        // 1.2 someRegistry.counter()
+        registry.counter("objects.instance");
     }
 
     @Test
@@ -153,8 +184,10 @@ public class MicrometerAtlasManualTest {
 
         timer.record(30, TimeUnit.MILLISECONDS);
 
+        // measure frequency of events
         assertEquals(2, timer.count(), 0);
 
+        // measure latencies
         assertThat(timer.totalTime(TimeUnit.MILLISECONDS)).isBetween(40.0, 55.0);
     }
 
@@ -226,7 +259,7 @@ public class MicrometerAtlasManualTest {
         expectedMicrometer.put(0.95, 13354.663936);
 
         Map<Double, Double> actualMicrometer = new TreeMap<>();
-        ValueAtPercentile[] percentiles = timer.takeSnapshot().percentileValues();
+        ValueAtPercentile[] percentiles = timer.takeSnapshot().percentileValues();      // measure percentiles
         for (ValueAtPercentile percentile : percentiles) {
             actualMicrometer.put(percentile.percentile(), percentile.value(TimeUnit.MILLISECONDS));
         }
@@ -234,6 +267,7 @@ public class MicrometerAtlasManualTest {
         assertEquals(expectedMicrometer, actualMicrometer);
     }
 
+    // check histogram group records / EACH bucket
     @Test
     public void givenDistributionSummary_whenEnrichWithHistograms_thenDataAggregated() {
         SimpleMeterRegistry registry = new SimpleMeterRegistry();
@@ -263,6 +297,7 @@ public class MicrometerAtlasManualTest {
        assertEquals(expectedMicrometer, actualMicrometer);
     }
 
+    // histograms can ALSO be time-scaled
     @Test
     public void givenTimer_whenEnrichWithTimescaleHistogram_thenTimeScaleDataCollected() {
         SimpleMeterRegistry registry = new SimpleMeterRegistry();
@@ -291,6 +326,55 @@ public class MicrometerAtlasManualTest {
         });
 
         assertEquals(expectedMicrometer, actualMicrometer);
+    }
+
+    @Test
+    public void givenRegistry_whenIterateMeters_thenTimeSeriesGenerated() {
+        SimpleMeterRegistry registry = new SimpleMeterRegistry();
+
+        // 1. register meters
+        Counter.builder("http.requests")
+          .tag("status", "200")
+          .tag("endpoint", "/api")
+          .register(registry)
+          .increment(100);
+        
+        Counter.builder("http.requests")
+          .tag("status", "500")
+          .tag("endpoint", "/api")
+          .register(registry)
+          .increment(5);
+        
+        Counter.builder("http.requests")
+          .tag("status", "200")
+          .tag("endpoint", "/home")
+          .register(registry)
+          .increment(250);
+
+        // 2. create time series
+        List<Map<String, Object>> timeSeries = new ArrayList<>();
+
+        for (Meter meter : registry.getMeters()) {
+            String metricName = meter.getId().getName();
+            
+            Map<String, String> dimensions = new HashMap<>();
+            for (Tag tag : meter.getId().getTags()) {
+                dimensions.put(tag.getKey(), tag.getValue());
+            }
+            
+            for (Measurement measurement : meter.measure()) {
+                Map<String, Object> series = new HashMap<>();
+                series.put("name", metricName);
+                series.put("dimensions", dimensions);
+                series.put("value", measurement.getValue());
+                timeSeries.add(series);
+            }
+        }
+        
+        assertEquals(3, timeSeries.size());
+        assertEquals(100.0, timeSeries.get(0).get("value"));
+        assertEquals(5.0, timeSeries.get(1).get("value"));
+        assertEquals(250.0, timeSeries.get(2).get("value"));
     }
 
 }
